@@ -1,4 +1,4 @@
-# test_plan_uml_mermaid
+# test_plant_uml_mermaid
 
 # Markdown
 
@@ -115,7 +115,7 @@ Rel(SystemC, customerA, "Sends e-mails to")
 
 ```
 
-### PlanUML
+### PlantUML
 
 ```puml
     C4Context
